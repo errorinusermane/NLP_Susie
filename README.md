@@ -5,6 +5,7 @@ Answers questions about Ewha's school rules from the rule document (PDF), using 
 - NLP course, Fall 2024 · team project · this repository holds my branch
 - My part: PDF parsing, embedding, retrieval, prompts
 - Accuracy 10% → 80% on a 10-question sample (fixed document parsing, then changed prompt combinations); 72% (36 of 50) on the final 50-question test set
+- Team repository: [NLP-NLPD/NLP_Code](https://github.com/NLP-NLPD/NLP_Code) (same code on branch 임수지)
 
 Notebooks are numbered in the order of experiments (try1 → try18).
 
